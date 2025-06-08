@@ -1,12 +1,11 @@
 BEGIN:VCARD
-VERSION:3.0
+VERSION:4.0
 N:NANDANI;PRATIK;;;
 FN:PRATIK NANDANI
 ORG:PROMPT ERP LIMITED
 EMAIL;type=INTERNET;type=HOME;type=pref:pratik@promptindia.com
 TEL;type=CELL;type=VOICE;X-Bharat:+917878789001
 URL;type=pref:https://pratik.pro
-BDAY:1999-11-05
 X-SOCIALPROFILE;type=WhatsApp:+91 7878789001
 X-SOCIALPROFILE;type=GitHub:https://github.com/pratiknandani
 X-SOCIALPROFILE;type=LinkedIn:https://linkedin.com/in/pratiknandani
